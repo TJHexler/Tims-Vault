@@ -1,0 +1,20 @@
+{
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "spellcheck": true,
+  "spellcheckLanguages": [
+    "de",
+    "en-US"
+  ],
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Bilder",
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

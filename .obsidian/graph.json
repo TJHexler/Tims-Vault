@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#EST",
+      "color": {
+        "a": 1,
+        "rgb": 5560296
+      }
+    },
+    {
+      "query": "tag:#Mathe",
+      "color": {
+        "a": 1,
+        "rgb": 15737902
+      }
+    },
+    {
+      "query": "tag:#RO",
+      "color": {
+        "a": 1,
+        "rgb": 1172637
+      }
+    },
+    {
+      "query": "tag:#Syskon",
+      "color": {
+        "a": 1,
+        "rgb": 6555568
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.4,
+  "repelStrength": 8.25,
+  "linkStrength": 1,
+  "linkDistance": 140,
+  "scale": 0.3496597027216634,
+  "close": false
+}
