@@ -10,24 +10,26 @@ Wir definieren die rationalen Zahlen als die Menge der endlichen d...Dezimalbrü
 ## Einige wichtige Eigenschaften der rationalen Zahlen
 
 1. Die Menge ist total geordnet, d.h. für je zwei verschiedene rationale Zahlen lässt sich angeben, welche die kleinere ist.
-2. Die Menge Q ist überall in sich "dicht", d.h. ... zwei verschieden rationalen Zahlen liegt mindestens eine weitere. Daher liegen zwischen zwei rationalen Zahlen unendlich viele weitere ... Zahlen.
+2. Die Menge Q ist überall in sich "dicht", d.h. zwischen je zwei verschieden rationalen Zahlen liegt mindestens eine weitere. Daher liegen zwischen zwei rationalen Zahlen unendlich viele weitere rationale Zahlen.
 3. Q ist ein [[Körper]], d.h. die Operationen Addition, Subtraktion Multiplikation und Division, außer durch 0, sind in Q enthalten
 ## wie viele rationale Zahlen gibt es?
 
-Man nennt eine unendliche Menge M abzählbar, wenn es eine bijektive [[Abbildung]] N -> M gibt.
+Man nennt eine unendliche Menge $M$ abzählbar, wenn es eine bijektive [[Abbildung]] $N -> M$ gibt.
 ### Bemerkung
-Q ist abzählbar.
-### Beweisskizze:
-...
-Während man m uneingeschränkt Potenzieren q -> $q^n$, nicht in Q kann ist ... , also Wurzelziehen nicht ... möglich, denn z.B.
-#### Beispiel
-$root{2}$ ist irrational
+$\mathbb{Q}$ ist abzählbar.
+
+#### Bemerkung
+$sqrt{2}$ ist irrational
 #### Beweis
-Angenommen, es gäbe ein $q element Q$ mit $q^2 = 2$, sei $q = a/b$ mit $a, b$ teilerfremd. Angenommen, $2=q^2=a^2/b^2$, dann folgt $2b^2=a^2$, also muss $a$ gerade Zahl sein, wir setzen $a= 2k$ und erhalten $2b^2=4k^2$ und somit $b^2=2k^2$, also auch b gerade, Widerspruch zu teilerfremdheit von $a$ und $b$.
-Um dies zu beheben, nehmen wir die __irrationalen Zahlen__, gegeben als nicht -periodische Dezimalbrüche zu Q dazu und erhalten die Menge der reellen Zahlen R.
+Angenommen, es gäbe ein $q \in Q$ mit $q^2 = 2$, sei $q = a/b$ mit $a, b$ teilerfremd. Angenommen, $2=q^2=a^2/b^2$, dann folgt $2b^2=a^2$, also muss $a$ gerade Zahl sein, wir setzen $a= 2k$ und erhalten $2b^2=4k^2$ und somit $b^2=2k^2$, also auch b gerade, Widerspruch zur Teilerfremdheit von $a$ und $b$.
+Um dies zu beheben, nehmen wir die __irrationalen Zahlen__, gegeben als nicht-periodische Dezimalbrüche zu Q dazu und erhalten die Menge der reellen Zahlen $mathbb{R}$.
+
+
 # Reelle Zahlen
+
 ## Satz 2.1
-R ist __überabzählbar__, d.h. nicht abzählbar unendlich.
+$\mathbb{R}$ ist __überabzählbar__, d.h. nicht abzählbar unendlich.
+
 ### Beweisskizze: 
 Angenommen, es gäbe eine abzählbare "Liste" der reellen Zahlen im Intervall $[0,1]$ 
 1. 0,1544264...
@@ -38,13 +40,13 @@ Wir zeigen: Es gibtr eine weitere Zahl, in $[0,1]$, die nicht auf der Liste ist.
 Im Beispiel: 0,000000...
 Widerspruch, also ist R nicht abzählbar.
 ## Mächtigkeiten
-$|N|=|Q|<|R|=|Pot(N)|
+$|\mathbb{N} |=|\mathbb{Q}|<|\mathbb{R}|=|Pot(N)|$
 ## Einige Haupteigenschaften der reellen Zahlen
 1. R ist total geordnet.
-2. Q liegt dicht in R, beliebig nahe an ... reellen Zahl liegt eien rationale Zahl. Sei $xelementR$, dann gilt: $FürAlleEpsilon>0ExistiertqelementQ: |x-q|<epsilon$ 
-3. Die reellen Zahlen sind ein __Kontinuum__, d.h. sie füllen die Zahlengerade lückenlos aus. Vollständigkeit, jede Intervallschachtelung $[a,b] )_ [a_2, b_2] )_ [a_3, b_3]$ hat nicht leeren Durchschnitt ...
-4. R ist ein [[Körper]], Potenzieren $x->x^n$ und ... $x-->nteroot{x}$ ist für $x>=0$ und ... uneingeschränkt möglich
-Was es nicht in R gibt, sind z.B. Quadratwurzeln negativer Zahlen.
+2. Q liegt dicht in R, beliebig nahe an jeder reellen Zahl liegt eine rationale Zahl. Sei $xelementR$, dann gilt: $\forall\epsilon>0\exists q\in Q: |x-q|<\epsilon$ 
+3. Die reellen Zahlen sind ein __Kontinuum__, d.h. sie füllen die Zahlengerade lückenlos aus. Vollständigkeit, jede Intervallschachtelung $[a,b] )_ [a_2, b_2] )_ [a_3, b_3]$ hat nicht leeren Durchschnitt.
+4. $\mathbb{R}$ ist ein [[Körper]], Potenzieren $x->x^n$ und Wurzelziehen ist in $\mathbb{R}$ stets ausführbar. Wobei das Wurzelziehen im Bereich der positiven Zahlen definiert ist.
+Was es nicht in $\mathbb{R}$ gibt, sind z.B. Quadratwurzeln negativer Zahlen.
 # Die komplexen Zahlen C
 Um Nullstellen von Polynomen bestimmen zu können und ein Wurzeln aus negativen Zahlen ziehen zu können, ... die komplexen Zahlen.
 ## Def. 2.2

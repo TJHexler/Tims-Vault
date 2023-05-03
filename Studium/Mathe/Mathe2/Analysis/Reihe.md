@@ -45,10 +45,12 @@ Sei $(a_k)_{k \in \mathbb{N}}$ eine reelle Folge, für die gilt: $a_k \geq 0, a_
 Siehe [[Saendig_Mathe fuer inf swt I.pdf]] Seite 164.
 
 #### Beispiel
-Die alternierende harmonische Reihe $\sum^{\infty}_{k = 1} (-1)^{k+1} \frac{1}{k}$ 
-Des weiteren gilt: $\sum^{\infty}_{k = 1} (-1)^{k+1} \frac{1}{k} = ln 2$
+Die alternierende harmonische Reihe $\sum^{\infty}_{k = 1} (-1)^{k-1} \frac{1}{k}$ 
+Des weiteren gilt: $\sum^{\infty}_{k = 1} (-1)^{k-1} \frac{1}{k} = ln 2$
 
 ## Bemerkung 1
-Umordnung in Reihe $\sum^{\infty}_{k = 1} (-1)^{k+1} \frac{1}{k}$. Wir ordnen um... Die Reihe ist divergent
-#### Beweis
-trivial
+Umordnung in Reihe $\sum^{\infty}_{k = 1} (-1)^{k-1} \frac{1}{k}$. Wir ordnen die Folgenglieder nun so um, sodass eine positive Summe entsteht. Da für gerades $m$ gilt: $\frac{1}{m+1}+\frac{1}{m+3}+...+\frac{1}{2m-1} \geq \frac{m}{2} * \frac{1}{2m} = \frac{1}{4}$, wird die umgeordnete Reihe divergent sein.
+
+## Bemerkung 2
+$(1 − 1) + (1 − 1) + · · · = 0$ und $1 + (−1 + 1) + (−1 + 1) + · · · = 1$ 
+Die Klammerungen führen zu unterschiedlichen Ergebnissen. Um Umordnen zu können, braucht man stärkere Eigenschaften.
