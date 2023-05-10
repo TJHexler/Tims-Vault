@@ -15,7 +15,7 @@ Wie man leicht nachprüft, gilt hier $AB \neq BA$, die Matrixmultiplikation ist 
 ## Addition
 Die Summe $A + B$ wird durch die komponentenweise Addition definiert, d.h. der Eintrag in der i-ten Zeile und j-ten Spalte von $A + B$ ist $a_{ij} + b_{ij}$
 
-Die Menge $M_{n, m}$ der $n \times m$ Matrizen mit Einträgen in $R$ wird mit dieser Addition zu einer abelschen Gruppe mit der __Nullmatrix__ (alle Einträge sind Null).
+Die Menge $M_{n, m}$ der $n \times m$ Matrizen mit Einträgen in $R$ wird mit dieser Addition zu einer abelschen Gruppe mit der __Nullmatrix__ (alle Einträge sind Null) als neutralem Element.
 
 ## Die Einheitsmatrix
 Das Einselement des Ring mit Eins der quadratischen Matrizen ist gegeben durch:
@@ -23,4 +23,5 @@ $$E := E_n \begin{pmatrix}a_{11} & \cdots & a_{1m}\\\vdots & \ddots & \vdots\\a_
 Die Einträge der Einheitsmatrix kann man auch durch das sogenannte __Kronecker-Symbol__ beschreiben: $E_n=\left(\delta_{ij}\begin{cases}1, & \text{falls }i=j\\0, & \text{falls }i\neq j\end{cases}~\right)$
 
 ## Hilfssatz 2.3.2 
-Mati
+Matrixmultiplikation ist __assoziativ__, d.h. es gilt: $(AB)C = A(BC)$
+Außerdem gelten die __Distributivgesetze__: $A(B +C) = AB +AC$ und $(A+B)C = AC +BC$

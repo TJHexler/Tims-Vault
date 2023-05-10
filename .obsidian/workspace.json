@@ -13,22 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Studium/Mathe/Mathe2/Analysis/Reihe.md",
+                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "58e6b93906e63478",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "74a4ce4beb9ca5de",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 285.5
+    "width": 200
   },
   "right": {
     "id": "db9868226d6046f1",
@@ -94,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md"
+              }
             }
           },
           {
@@ -161,17 +164,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "85c5913a1a86b785",
+  "active": "a19302253e5b3381",
   "lastOpenFiles": [
-    "Studium/Mathe/Mathe2/Analysis/Reihe.md",
+    "Studium/Mathe/Mathe2/Analysis/Funktionenfolgen und -reihen.md",
+    "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
+    "Studium/Mathe/Mathe1/Lineare Algebra.pdf",
     "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Körper.md",
+    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Matrix.md",
+    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Ring.md",
+    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Gruppe.md",
+    "Studium/Mathe/Mathe2/Analysis/Reihe.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Halbaddierer.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Fliesskomma-Arithmetik.md",
+    "Bilder/IEEEGuardAndRoundBits.png",
+    "Bilder/BeispielUmwandlungBinärDezimalFlieskommazahl.png",
+    "Bilder/UmwandlungBinärDezimalFliesskomma.png",
+    "Bilder/Fließkommazahlen.png",
+    "Bilder/IEEE754DenormalisierteZahlen.png",
+    "Bilder/SonderfälleIEEE754.2.png",
+    "Bilder/SonderfälleIEEE754.png",
+    "Bilder/IEEE754Bsp2.png",
+    "Bilder/IEEE754Bsp.png",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Subtrahierer.md",
+    "Bilder/binaereraddierersubtrahierer.png",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Carry-Ripple-Addierer.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Volladdierer.md",
+    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/VHDL.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/VHDL Here we go again.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen",
     "Studium/Mathe/Mathe2/Zahlenmengen/Rationale, reelle und komplexe Zahlen.md",
     "Studium/Mathe/Mathe2/Saendig_Mathe fuer inf swt I.pdf",
     "Studium/Mathe/Mathe2/Analysis/Reihen Fortsetzung.md",
     "Studium/Rechnerorganisation/VL3 Zahlenmengen und Datentyp Integer/Zahlensysteme und Datentyp Integer.md",
-    "Bilder/BinäreSubtraktion.png",
-    "Bilder/ASCII2.png",
-    "Bilder/ASCII1.png",
     "Studium/Rechnerorganisation/VL3 Zahlenmengen und.md",
     "Studium/Rechnerorganisation/VL3 Zahlenmengen und Datentyp Integer",
     "Studium/Mathe/Mathe2/Analysis/Analysis (Grundbegriffe).md",
@@ -182,32 +206,12 @@
     "Studium/Einführung Softwaretechnik/3 User Cases User Stories/Anwendungsfall.md",
     "Studium/Einführung Softwaretechnik/3 User Cases User Stories/User Stories.md",
     "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen/Kollaborationsplattformen.md",
-    "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen/Muster.md",
-    "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen/Verzweigungsmuster.md",
-    "Studium/Syskon/Kapitel6/6-a Präsentation- und Anwendungsschicht/HTML.md",
     "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen",
     "Studium/Einführung Softwaretechnik/3 User Cases User Stories",
     "Studium/Einführung Softwaretechnik/2 Anforderungsanalyse",
     "Studium/Einführung Softwaretechnik/1 Grundbegriffe",
-    "Studium/n.md",
-    "Bilder/Maturity Branch.png",
-    "Bilder/Feature Brach.png",
-    "Bilder/Git Tag.png",
-    "Bilder/Git Datenstrukturen.png",
-    "Bilder/Git drei Zustände.png",
-    "Privat/Shu-Ha-Ri.md",
-    "Bilder/SE als ein Gestrüpp von Problemen.png",
-    "Bilder/DefinitionOfDone.png",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Matrix.md",
     "Studium/Mathe/Mathe2/Saendig_Mathe fuer inf swt II.pdf",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Ring.md",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Gruppe.md",
-    "Studium/Mathe/Mathe1/Lineare Algebra.pdf",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/VHDL.md",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Multiplexer.md",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Decoder, 7-Segmentanzeige, kombinatorische Schaltungen.md",
     "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Untitled.canvas",
-    "Studium/Rechnerorganisation/VL2/Untitled",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen"
+    "Studium/Rechnerorganisation/VL2/Untitled"
   ]
 }
