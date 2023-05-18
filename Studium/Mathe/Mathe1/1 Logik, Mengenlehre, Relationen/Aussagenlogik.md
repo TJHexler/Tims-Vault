@@ -25,3 +25,4 @@ Eine aussagenlogische Formel, die unabhängig vom Wahrheitswert ihrer Teilformel
 - Distributivgesetze für "und" und "oder":
 	(a) $p ∨ (q ∧ r) ⇔ (p ∨ q) ∧ (p ∨ r)$
 	(b) $p ∧ (q ∨ r) ⇔ (p ∧ q) ∨ (p ∧ r)$
+Siehe [[Lineare Algebra.pdf]]

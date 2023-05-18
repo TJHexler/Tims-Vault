@@ -10,7 +10,7 @@ Was ist der Unterschied zwischen Lastenheft und Pflichtenheft?
 | Grundlagen               | Aktivitäten                                               |
 | ------------------------ | --------------------------------------------------------- |
 | [[Grundbegriffe]]            | Analyse und Spezifikationen                               |
-| [[Software Engineering]]     | Kollaborationswerkzeuge Integration Test                  |
+| [[Software Engineering]]     | Kollaborationswerkzeuge [[Integration]] Test                  |
 | Software-Qualität        | Programmverstehen und Implementierung, Qualitätssicherung |
 | Risiko, Vorgehensmodelle | Produkt-/Projektmanagement                                |
 | langlebige Software      | Architektur und Entwurf                                   |

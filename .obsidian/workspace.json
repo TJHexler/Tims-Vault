@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e4587fb86fb3d107",
+        "id": "b7ff91f69afd248d",
         "type": "tabs",
         "children": [
           {
-            "id": "a19302253e5b3381",
+            "id": "bf4acb847c65f2bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,8 +137,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,54 +155,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a19302253e5b3381",
+  "active": "bf4acb847c65f2bc",
   "lastOpenFiles": [
-    "Studium/Mathe/Mathe2/Analysis/Funktionenfolgen und -reihen.md",
-    "Studium/Mathe/Mathe2/Analysis/Potenzreihe.md",
+    "Studium/Rechnerorganisation/VL6 Zustandsautomaten und Speicher/Zustandsautomaten.md",
+    "Studium/Rechnerorganisation/VL6 Zustandsautomaten und Speicher/Speicherbausteine SRAM und DRAM.md",
+    "Bilder/DRAM Lesezyklus.png",
+    "Bilder/DRAM Schreibzyklus.png",
+    "Bilder/DRAM mit refresh Logikeinheit.png",
+    "Bilder/DRAMBitSliceModell.png",
+    "Bilder/DRAM Zelle.png",
+    "Bilder/Array SRAM ICs.png",
+    "Bilder/Verbund von SRAM ICs.png",
+    "Bilder/SRAMICs.png",
+    "Bilder/SRAM2.png",
+    "Bilder/SRAM.png",
+    "Studium/Rechnerorganisation/VL6 Zustandsautomaten und Speicher/VHDL-Beschreibung eines Zustandsautomaten.md",
+    "Studium/Rechnerorganisation/VL5 sequentielle Schaltungen/Flip-Flop.md",
+    "Studium/Rechnerorganisation/VL6 Zustandsautomaten und Speicher",
+    "Studium/Rechnerorganisation/VL5 sequentielle Schaltungen/sequentielle Schaltung.md",
+    "Bilder/k.md",
+    "Bilder/ä.md",
+    "Studium/Mathe/Mathe1/1 Logik, Mengenlehre, Relationen/Aussagenlogik.md",
     "Studium/Mathe/Mathe1/Lineare Algebra.pdf",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Körper.md",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Matrix.md",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Ring.md",
-    "Studium/Mathe/Mathe1/2 Gruppen, Ringe, Körper/Gruppe.md",
-    "Studium/Mathe/Mathe2/Analysis/Reihe.md",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Halbaddierer.md",
+    "Studium/Einführung Softwaretechnik/7 Integration und Deployment/Continuous Deployment Patterns.md",
+    "Studium/Einführung Softwaretechnik/7 Integration und Deployment/Contiuous Delivery and Deployment.md",
+    "Studium/Einführung Softwaretechnik/7 Integration und Deployment/GitLab.md",
+    "Studium/Einführung Softwaretechnik/7 Integration und Deployment/Integration.md",
+    "Studium/Einführung Softwaretechnik/6 Integrationstest- und Unit-test-muster/Unit-Test-Muster.md",
+    "Studium/Einführung Softwaretechnik/7 Integration und Deployment",
+    "Studium/Einführung Softwaretechnik/6 Integrationstest- und Unit-test-muster/Integrationstest.md",
+    "Studium/Einführung Softwaretechnik/6 Integrationstest- und Unit-test-muster",
+    "Studium/Einführung Softwaretechnik/5 Test-Grundlagen, Akzeptanztests, Systemtests/Tests.md",
+    "Studium/Einführung Softwaretechnik/5 Test-Grundlagen, Akzeptanztests, Systemtests/Akzeptanztests.md",
+    "Studium/Einführung Softwaretechnik/5 Test-Grundlagen, Akzeptanztests, Systemtests/Systemtest.md",
     "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Fliesskomma-Arithmetik.md",
-    "Bilder/IEEEGuardAndRoundBits.png",
-    "Bilder/BeispielUmwandlungBinärDezimalFlieskommazahl.png",
-    "Bilder/UmwandlungBinärDezimalFliesskomma.png",
-    "Bilder/Fließkommazahlen.png",
-    "Bilder/IEEE754DenormalisierteZahlen.png",
-    "Bilder/SonderfälleIEEE754.2.png",
-    "Bilder/SonderfälleIEEE754.png",
-    "Bilder/IEEE754Bsp2.png",
-    "Bilder/IEEE754Bsp.png",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Subtrahierer.md",
-    "Bilder/binaereraddierersubtrahierer.png",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Carry-Ripple-Addierer.md",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Volladdierer.md",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/VHDL.md",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/VHDL Here we go again.md",
-    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen",
-    "Studium/Mathe/Mathe2/Zahlenmengen/Rationale, reelle und komplexe Zahlen.md",
-    "Studium/Mathe/Mathe2/Saendig_Mathe fuer inf swt I.pdf",
-    "Studium/Mathe/Mathe2/Analysis/Reihen Fortsetzung.md",
+    "Studium/Einführung Softwaretechnik/5 Test-Grundlagen, Akzeptanztests, Systemtests",
+    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Logik-Gatter.md",
+    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/CMOS-Logik.md",
+    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Terme und Normalformen.md",
     "Studium/Rechnerorganisation/VL3 Zahlenmengen und Datentyp Integer/Zahlensysteme und Datentyp Integer.md",
-    "Studium/Rechnerorganisation/VL3 Zahlenmengen und.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Halbaddierer.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Volladdierer.md",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen/Subtrahierer.md",
+    "Studium/Rechnerorganisation/VL5 sequentielle Schaltungen",
+    "Studium/Einführung Softwaretechnik/Übungsblätter Korrektur",
+    "Studium/Rechnerorganisation/VL4 Arithmetische Schaltungen",
+    "Studium/Mathe/Mathe2/Saendig_Mathe fuer inf swt I.pdf",
     "Studium/Rechnerorganisation/VL3 Zahlenmengen und Datentyp Integer",
-    "Studium/Mathe/Mathe2/Analysis/Analysis (Grundbegriffe).md",
-    "Studium/Mathe/Mathe2/Analysis/Folge.md",
-    "Studium/Einführung Softwaretechnik/3 User Cases User Stories/Software Engineering.md",
-    "Studium/Einführung Softwaretechnik/1 Grundbegriffe/Grundbegriffe.md",
-    "Studium/Einführung Softwaretechnik/2 Anforderungsanalyse/Anforderungsanalyse.md",
-    "Studium/Einführung Softwaretechnik/3 User Cases User Stories/Anwendungsfall.md",
-    "Studium/Einführung Softwaretechnik/3 User Cases User Stories/User Stories.md",
-    "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen/Kollaborationsplattformen.md",
-    "Studium/Einführung Softwaretechnik/4 Muster, Kollaborationsplattformen",
-    "Studium/Einführung Softwaretechnik/3 User Cases User Stories",
-    "Studium/Einführung Softwaretechnik/2 Anforderungsanalyse",
-    "Studium/Einführung Softwaretechnik/1 Grundbegriffe",
-    "Studium/Mathe/Mathe2/Saendig_Mathe fuer inf swt II.pdf",
-    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Untitled.canvas",
-    "Studium/Rechnerorganisation/VL2/Untitled"
+    "Studium/Rechnerorganisation/VL2 Boolesche Algebra, Logik-Gatter, Hardware Beschreibungssprachen/Untitled.canvas"
   ]
 }

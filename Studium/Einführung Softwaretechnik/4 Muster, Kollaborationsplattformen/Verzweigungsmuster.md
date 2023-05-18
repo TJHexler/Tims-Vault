@@ -22,9 +22,9 @@ Es gibt einen Hauptzweig (__Mainline__), der immer den aktuellen Stand enthält,
 #### Problem
 Zweige werden potentiell zwischen Entwicklern geteilt, aber in Zweigen kann viel "Work in Progress" sein, der noch unvollständig und ungetestet ist.
 #### Lösung
-Die Zweige sollten immer "gesund" sein, d.h. durch automatische Prüfungen ständig abgesichert werden. Dies beinhaltet automatisierte Tests und statische Analysen. Dies kann auf beliebige Zweige angewendet werden, ist aber gerade mit einer Mainline sinnvoll.
+Die Zweige sollten immer "gesund" sein, d.h. durch automatische Prüfungen ständig abgesichert werden. Dies beinhaltet automatisierte [[Tests]] und statische Analysen. Dies kann auf beliebige Zweige angewendet werden, ist aber gerade mit einer Mainline sinnvoll.
 
-# Verzweigungsmuster: Integration
+# Verzweigungsmuster: [[Integration]]
 Die folgenden Infos n basieren auf den Mustern vorgeschlagen von Martin Fowler (https://martinfowler.com/articles/branching-patterns.html).
 
 ## Mainline Integration
@@ -33,7 +33,7 @@ Wie integriere ich meine Änderungen mit denen der anderen Entwickler?
 #### Lösung
 Alle integrieren "gesunde" Stände in die Mainline.
 
-Ein großer Vorteil dieses Musters ist, dass ich Kontinuierliche Integration einfach auf der Mainline machen kann.
+Ein großer Vorteil dieses Musters ist, dass ich Kontinuierliche [[Integration]] einfach auf der Mainline machen kann.
 
 ## Feature Branch
 #### Problem
@@ -50,7 +50,7 @@ Wie häufig soll ich in die Mainline integrieren?
 #### Lösung
 So oft wie möglich (alle paar Commits, mindestens einmal am Tag) in die Mainline integrieren
 
-Der eigentliche Gegensatz ist nicht Integration in die Mainline vs. Feature Branch sondern häufiges vs. seltenes Integrieren in die Mainline. Sehr häufiges Integrieren führt dazu, dass man sich oft mit Merge-Konflikten beschäftigen muss, weil ich ja bei jeder Mainline-Integration potentiell so einen Konflikt haben kann und lösen muss. Je länger aber diese Integration herausgeschoben wird, desto risikoreicher und aufwändiger wird sie.
+Der eigentliche Gegensatz ist nicht [[Integration]] in die Mainline vs. Feature Branch sondern häufiges vs. seltenes Integrieren in die Mainline. Sehr häufiges Integrieren führt dazu, dass man sich oft mit Merge-Konflikten beschäftigen muss, weil ich ja bei jeder Mainline-Integration potentiell so einen Konflikt haben kann und lösen muss. Je länger aber diese Integration herausgeschoben wird, desto risikoreicher und aufwändiger wird sie.
 
 ## Peer-Review Commit
 #### Problem

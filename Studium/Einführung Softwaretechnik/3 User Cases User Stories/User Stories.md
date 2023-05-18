@@ -21,8 +21,8 @@ Hier sehen wir eine Story Card, was eine typische Art der Dokumentation einer Us
 __Card, Conversation, Confirmation__
 „Card“ ist das erste „C“ der drei Cs, die nach Jeffries (2001) User Stories beschreiben. Das zweite ist „Conversation“. Damit ist gemeint, dass eine User Story niemals im Detail bereits die Anforderung festschreibt, sondern ein „Merker“ zur weiteren Konversation mit den Stakeholdern sein soll.
 
-### Akzeptanztests
-Das dritte C ist „Confirmation“. Das bedeutet, dass wir auf der Rückseite der Story Card Informationen angeben, wie die Erfüllung der User Story zu überprüfen ist. Oft werden diese „Conditions of Satisfaction“ genannt. Häufig formuliert man diese direkt als Akzeptanztests, also Tests, die der Kunde ausführt, um zu prüfen, ob das System abgenommen werden kann. Dazu gibt es auch entsprechende Werkzeuge, wie z.B. FitNesse, das solche tabellarisch formulierten Tests direkt ausführen kann.
+### [[Akzeptanztests]]
+Das dritte C ist „Confirmation“. Das bedeutet, dass wir auf der Rückseite der Story Card Informationen angeben, wie die Erfüllung der User Story zu überprüfen ist. Oft werden diese „Conditions of Satisfaction“ genannt. Häufig formuliert man diese direkt als [[Akzeptanztests]], also [[Tests]], die der Kunde ausführt, um zu prüfen, ob das System abgenommen werden kann. Dazu gibt es auch entsprechende Werkzeuge, wie z.B. FitNesse, das solche tabellarisch formulierten Tests direkt ausführen kann.
 
 ![[AkzeptanztestsGliederung.png|350]]
 
